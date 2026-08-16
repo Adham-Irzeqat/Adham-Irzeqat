@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Adham Irzeqat 👋
+# Hi, I'm Adham Arzeqat 👋
 
 ### Software Engineer | Full Stack Developer | AI Enthusiast
 
