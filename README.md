@@ -30,6 +30,14 @@ AI-powered ICU clinical decision-support prototype featuring **RAG, patient hist
 
 ---
 
+### 🌸 [Flower Classifier with TensorFlow](https://github.com/Adham-Irzeqat/flower-classifier-tensorflow)
+
+Deep learning image classifier for **102 flower categories** using transfer learning with **MobileNetV3**, TensorFlow Hub, and command-line inference.
+
+**Tech:** Python • TensorFlow • TensorFlow Hub • TensorFlow Datasets • NumPy • Jupyter
+
+---
+
 ## 🛠️ Technologies I'm Working With
 
 <p align="left">
