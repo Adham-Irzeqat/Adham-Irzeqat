@@ -2,9 +2,9 @@
 
 # Hi, I'm Adham Arzeqat 👋
 
-### Software Developer | Web • AI • Smart Systems
+### Software Engineer | Full Stack Developer | AI Enthusiast
 
-Building practical software projects, exploring new technologies, and continuously improving my development skills.
+Building full-stack applications, exploring AI technologies, and turning ideas into practical software solutions.
 
 </div>
 
@@ -12,23 +12,23 @@ Building practical software projects, exploring new technologies, and continuous
 
 ## 👨‍💻 About Me
 
-* 💻 Interested in **Software Development**
-* 🌐 Building projects in **Web Development**
-* 🤖 Exploring **AI & Smart Systems**
-* 🚀 Focused on turning ideas into practical projects
-* 📚 Always learning and improving my technical skills
+* 💻 Software Engineer focused on **Full Stack Development**
+* 🌐 Building modern and practical **web applications**
+* 🤖 Interested in **Artificial Intelligence** and AI-driven solutions
+* 🚀 Enjoy turning ideas into real-world software projects
+* 📚 Continuously learning new technologies and improving my development skills
 
 ---
 
 ## 🚀 Featured Projects
 
-My portfolio is currently being updated with my latest projects.
+I'm currently organizing and updating my projects.
 
-Stay tuned 👀
+More projects will be added soon. 👨‍💻
 
 ---
 
-## 🤝 Connect With Me
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adham%20Arzeqat-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/adham-irzeqat-bbb007300)
 
